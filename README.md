@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jacobpieczynski
 - 👀 I’m interested in sports, photography, and racing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on who knows what? I'm just getting started!
+- 🌱 I’m currently learning Python and C
 - 📫 How to reach me - send me a message!
 
 <!---
